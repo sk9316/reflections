@@ -5,3 +5,6 @@ A)When we initialize the repository a .git file is added to the
 
  Q) How is the staging area different from the working directory and the repository? What value do you think it offers?
  A) Staging area is a place which holds all the files that will be commited by using commit command.It offers the feature to partially commit the contents of a repository.
+
+ Q) How can you use the staging area to make sure you have one commit per logical change?
+ A) After every logical change in a file in the working directory one shoud add it to the staging area
