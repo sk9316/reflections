@@ -1,0 +1,7 @@
+Q)What happens when you initialize a repository? Why do you need to do it?
+A)When we initialize the repository a .git file is added to the
+  repository,which is hidden file.
+  This keeps track of states of all the files in the repository.
+
+ Q) How is the staging area different from the working directory and the repository? What value do you think it offers?
+ A) Staging area is a place which holds all the files that will be commited by using commit command.It offers the feature to partially commit the contents of a repository.
