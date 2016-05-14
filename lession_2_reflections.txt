@@ -8,3 +8,14 @@ A)When we initialize the repository a .git file is added to the
 
  Q) How can you use the staging area to make sure you have one commit per logical change?
  A) After every logical change in a file in the working directory one shoud add it to the staging area
+
+ Q) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ A)when we are creating a new app there are different ideas one needs to get embedded in the app which are completly different from the basis of that app, branches will be very useful in such case, it will keep the orignal features of the app intact.
+ If we are developing a single app for multiple platforms, we can create multiple branches,each for a platform.
+
+ Q)How do the diagrams help you visualize the branch structure?
+ A)when we are dealing with huge number of branches then it gets very difficult for us to visualise each and every branch through git log.
+ Diagram makes it easy to visualise.
+
+ Q)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ A)when we merge to branches the features of both the branches are added to a single commit.
