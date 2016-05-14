@@ -1,0 +1,3 @@
+Q)When would you want to use a remote repository rather than keeping all your work local?
+A)when many programmers are working on a same project from different locations, then there's a need of
+  remote repository to track all the changes made to that project.
